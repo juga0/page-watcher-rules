@@ -1,0 +1,19 @@
+-
+  organization: theguardianproject
+  policy: privacy_policy
+  tool: chatsecure
+#  url: 'https://chatsecure.org/privacy/'
+  url: 'http://chatsecure.org/privacy/'
+  xpath: "//article/div/section"
+
+# - organization: t-mobile
+#   policy: tos
+#   tool: GSM
+#   url: 'http://www.t-mobile.com/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditions&amp;print=true'
+#   xpath: "//div[@id='body']"
+
+# - organization: t-mobile
+#   policy: privacy_policy
+#   tool: GSM
+#   url: 'http://www.t-mobile.com/company/website/privacypolicy.aspx#fullpolicy'
+#   xpath: "//div[@class='faq']"
