@@ -17,3 +17,9 @@
   tool: GSM
   url: 'http://www.t-mobile.com/company/website/privacypolicy.aspx#fullpolicy'
   xpath: "//div[@class='faq']"
+
+- organization: whispersystems
+  policy: privacy_policy
+  tool: signal
+  url: 'https://www.whispersystems.org/signal/privacy/'
+  xpath: "//section/div/div/div"
