@@ -23,3 +23,12 @@
   tool: signal
   url: 'https://www.whispersystems.org/signal/privacy/'
   xpath: "//section/div/div/div"
+
+- organization: microsoft
+  policy: privacy_policy
+  tool: skype
+  url: 'https://privacy.microsoft.com/en-us/privacystatement'
+  # xpath: "//div[@class='div_content']/div[@id='mainskypemodule']"
+  # xpath: "//div[@id='mainskypemodule']"
+  xpath: "//div[@class='grid']"
+  # //div[@id='divJsEnabled']/*[not(@class='logo_relatedLink_Section') and not(@class='logo_Section')]
