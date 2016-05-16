@@ -1,0 +1,2 @@
+url: 'http://www.t-mobile.com/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditions&amp;print=true'
+xpath: "//div[@id='body']"
